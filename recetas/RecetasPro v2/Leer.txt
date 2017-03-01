@@ -1,0 +1,18 @@
+Configurando Librería
+---------------------------------------------------------------------------
+UCanAcces es la libreria que toca incluir para utilizar Acces con NetBeans.
+Video en inglés pero fácil entendimiento:
+
+https://www.youtube.com/watch?v=g8FyEkmh_1Q
+
+En la descripción está cómo hacer inserción y traer datos.
+---------------------------------------------------------------------------
+
+
+Configuración en Acces
+---------------------------------------------------------------------------
+Archivo-> Opciones -> General -> Criterio de ordenación de una nueva base de datos:
+Seleccionar: "General - Heredado"
+
+Luego. se debe ir a Herramintas de Base de Datos -> Compactar y Reparar base de datos.
+---------------------------------------------------------------------------
